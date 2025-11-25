@@ -88,12 +88,13 @@ streamlit run app.py
 # 7. How to Deploy Using Streamlit
 # Local deployment
 Simply run:
+
 ```
 streamlit run app.py
 Streamlit will automatically launch the UI in your browser (default: http://localhost:8501).
 ```
 
-# For remote deployment (Streamlit Community Cloud)
+## For remote deployment (Streamlit Community Cloud)
 
 1.Push the repository to GitHub
 2.Visit: https://share.streamlit.io
