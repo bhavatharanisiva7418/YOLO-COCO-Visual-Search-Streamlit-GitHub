@@ -94,6 +94,7 @@ Streamlit will automatically launch the UI in your browser (default: http://loca
 ```
 
 # For remote deployment (Streamlit Community Cloud)
+
 1.Push the repository to GitHub
 2.Visit: https://share.streamlit.io
 3.Connect your GitHub repo
