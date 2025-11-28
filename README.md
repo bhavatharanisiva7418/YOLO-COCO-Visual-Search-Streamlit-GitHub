@@ -104,6 +104,10 @@ Streamlit will automatically launch the UI in your browser (default: http://loca
 The app will run fully on CPU.
 
 # 8. Output:
+![output1](https://github.com/user-attachments/assets/73b0a950-f6ef-41b5-9915-8ac02423a19f)
+![output2](https://github.com/user-attachments/assets/69b34e1e-a0e2-4a90-96ef-aa7f9f71e70e)
+
+
 # Result:
 The project demonstrates that a complete visual search engine can be built using:
 
